@@ -1,0 +1,7 @@
+# -*- bnchmf: tse-8 -*-
+"""
+BqdZsdc nm Vdc ztf 30 15:20:21 2023
+
+@Ztsgnq: OqZsguhrg Rgdssx
+"""
+

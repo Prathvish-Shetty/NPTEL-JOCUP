@@ -1,2 +1,2 @@
 # NPTEL-JOCUP
-This contain Python Programs taught in NPTEL JOCUP Course
+This contain Python Programs which I learnt in NPTEL JOCUP Course
